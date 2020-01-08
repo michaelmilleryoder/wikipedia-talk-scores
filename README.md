@@ -15,4 +15,4 @@ Columns in `wikipedia_talk_editor_scores.csv` are explained here:
 * `other_talk`: other editors' contributions to the discussion thread, concatenated
 * `#editor_turns`: the number of discussion turns contributed by that editor
 * `#other_turns`: the number of discussion turns contributed by other editors
-* `editor_score`: a measure of that editor's success in editing the article page. This is the proportion of modifications the editor made that are still present 24 hours after the last contribution in the discussion thread. Details can be found in the accompanying [paper](https://www.aclweb.org/anthology/I17-1103.pdf).
+* `editor_score`: a measure of that editor's success in editing the article page. This is the proportion of modifications the editor made that are still present 24 hours after the last contribution in the discussion thread. Details can be found in the accompanying [paper](https://www.aclweb.org/anthology/I17-1103.pdf), where this measure is the outcome to be predicted from features in the talk.
